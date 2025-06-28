@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import datetime as dt
 import os 
+import matplotlib.pyplot as plt
+import seaborn as sns
 import plotly.express as px
 
 
